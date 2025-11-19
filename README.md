@@ -2,7 +2,7 @@
 
 A small Python program that generates colorful polygon-based art using the turtle module. Shapes are implemented with simple OOP classes (Triangle, Square, Pentagon, and a generic Shape) and several pattern generators.
 
-![Example output](./art7.jpg)
+![Example output](./images/art7.jpg)
 
 ## Requirements
 - Python 3.x (turtle is part of the standard library)
